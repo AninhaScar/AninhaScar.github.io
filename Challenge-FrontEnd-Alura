@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Adopet</title>
+
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <div class="caixa">
+                <h1><img src=""></h1>
+                <nav>
+                    <ul>
+                        <li><a href="teste.html">Home</a></li>
+                        <li><a href="paginaProduto.html">Produtos</a></li>
+                        <li><a href="contato.html">Contato</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <main>
+
+        </main>
+        <footer>
+            <img src="">
+            <p class="copyright">&copy;Copyright Adopet</p>
+        </footer>
+    </body>
+</html>
